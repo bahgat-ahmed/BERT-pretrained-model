@@ -1,6 +1,6 @@
 # BERT
 
-<img src="BERT_diagrams.png" height=100px>
+<img src="BERT_diagrams.png" height=500px>
 
 Two guided projects from Coursera I have implemented using BERT pretrained models.
 
